@@ -1,1 +1,1 @@
-# IBS
+This folder contains the bacteria abundance table, meta table and R codes for the manuscript "Microbiota-Short Chain Fatty Acid Relationships Underlie Clinical Heterogeneity and Identify Key Microbial Targets in Irritable Bowel Syndrome (IBS)"
